@@ -633,7 +633,7 @@
     bottom: 50%; 
     left: 50%; 
     transform: translate(-50%, -50%);
-    box-shadow: 0 0 45px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 0 45px rgba(38, 36, 36, 0.08);
 }
 
 .project .project-carousel .project-item .project-content::after {
